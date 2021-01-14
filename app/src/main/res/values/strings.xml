@@ -3,4 +3,6 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="game">Game</string>
     <string name="players">Players</string>
+    <string name="play_button">Play the game</string>
+    <string name="player_name">Player name</string>
 </resources>
